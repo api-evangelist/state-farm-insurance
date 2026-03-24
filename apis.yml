@@ -1,0 +1,7 @@
+aid: state-farm-insurance
+url: https://raw.githubusercontent.com/api-evangelist/state-farm-insurance/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.state-farm-insurance.com

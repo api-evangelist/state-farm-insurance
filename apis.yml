@@ -152,7 +152,7 @@ common:
   - type: TermsOfService
     url: https://www.statefarm.com/customer-care/legal-disclaimer
   - type: OpenAPI
-    url: openapi/state-farm-insurance-renters-openapi.yml
+    url: openapi/_original/state-farm-insurance-renters-openapi.yml
   - type: JSONSchema
     url: json-schema/state-farm-insurance-renters-policy-schema.json
   - type: JSONStructure

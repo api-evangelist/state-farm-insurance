@@ -140,6 +140,9 @@ apis:
   - type: Documentation
     url: https://developer.statefarm.com/api/renters
 common:
+  - type: CapabilityMap
+    url: capabilities/state-farm-insurance-capability-edges.yml
+    name: State Farm Insurance Business Capability Map
   - type: AgenticAccess
     url: agentic-access/state-farm-insurance-agentic-access.yml
   - type: VulnerabilityDisclosure
